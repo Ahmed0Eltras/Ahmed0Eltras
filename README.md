@@ -1,5 +1,4 @@
 # 💫 About Me:
-## My Name: Ahmed Eltras
 ## I'm a Data Analyst
 
 
